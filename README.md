@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Grupo 12 Eduardo Roldán Fotografía
+# **Eduardo Roldán Fotografia** 
+![logowhite](https://user-images.githubusercontent.com/77336492/131771171-c498be79-fa6c-4434-8063-90208bcec93e.png)
+## **Nos encargamos de inmortalizar tus momentos en fotografías 📸**
+* Bodas👰
+* 15 Años👸
+* Sesiones🤵
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sitio web de servicios fotográficos
 
-## Available Scripts
+Integrantes:
+* Carlos Luna: 33 años, docente, estudiante de ingeniería.
+* Gerardo Burgos: Hola mi nombre es gerard, tengo 34 años. Soy economista y trabajo en el área de compras. Me gusta mucho la tecnología y quiero reperfilar mi carrera. Con muchas ganas de seguir aprendiendo.
+* Elena Soto: Docente, mamá de Rafa y Mayte, vivo en Río Cuarto. Me encanta el mate.
+* Mitzio Roldan: Estudiante autodidacta, apasionado de la tecnología y la movilidad eléctrica.
+*
+Link de Trello organizador del trabajo:
+https://trello.com/b/fV7UWc9M/proyecto-e-commerce-dh
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Sitios web de referencia:
+https://www.lucaslermen.com.br/ (Apariencia en el home)
+https://www.loopearplugs.com/ (Animaciones y diseño en general)
+https://www.tesla.com/?redirect=no (Animaciones)
+https://blazinphoto.com/ (Diseño en general)
+http://www.sanzlena.com/ (Diseño del home)
