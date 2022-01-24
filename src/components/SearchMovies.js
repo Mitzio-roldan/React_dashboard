@@ -27,6 +27,7 @@ function SearchMovies(){
 		.then(result => result.json())
 		.then(data =>{
 			setMovies(data.Search)
+			console.log(movies);
 		})
 		.catch(error => {
 			console.log(error);
