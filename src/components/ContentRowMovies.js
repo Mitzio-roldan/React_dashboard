@@ -70,7 +70,7 @@ function ContentRowMovies(){
     
     return (
     
-        <div className="row">
+        <div className="row" style={{margin: 'auto', justifyContent: 'space-around'}}>
             
             {cartProps.map( (movie, i) => {
 

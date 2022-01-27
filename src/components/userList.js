@@ -1,17 +1,17 @@
 import React from 'react';
-import ChartRow from './ChartRow';
+import ChartRow from './userSheet';
 import {useState, useEffect, useRef} from 'react'
 
 
-function Chart (){
+function UserList (){
     
-    const [products, setProducts] = useState([]);
+    const [users, setUsers] = useState([]);
     useEffect(()=>{
 
-        fetch("/api/products")
+        fetch("/api/users")
 		.then(result => result.json())
 		.then(data =>{
-            setProducts(data.products)
+            setUsers(data.data)
            
 		})
 		.catch(error => {
@@ -22,31 +22,30 @@ function Chart (){
     
     return (
         /* <!-- DataTales Example --> */
-        <div className="card shadow mb-4">
+        <div className="card shadow mb-4" style={{margin: 'auto', width: '100%'}}>
             <div className="card-body">
                 <div className="table-responsive">
                     <table className="table table-bordered" id="dataTable" width="100%" cellSpacing="0">
                         <thead>
                             <tr>
                                 <th>Nombre</th>
-                                <th>Título</th>
-                                <th>Descripción</th>
-                                <th>Precio</th>
+                                <th>Email</th>
+                                <th>Username</th>
+                                
                                 
                             </tr>
                         </thead>
                         <tfoot>
                             <tr>
                             <th>Nombre</th>
-                            <th>Título</th>
-                            <th>Descripción</th>
-                            <th>Precio</th>
+                            <th>Email</th>
+                            <th>Username</th>
                                 
                             </tr>
                         </tfoot>
                         <tbody>
                             {
-                            products.map( ( row , i) => {
+                            users.map( ( row , i) => {
                                 return <ChartRow { ...row} key={i}/>
                             })
                             }
@@ -60,4 +59,4 @@ function Chart (){
     )
 }
 
-export default Chart;
+export default UserList;
